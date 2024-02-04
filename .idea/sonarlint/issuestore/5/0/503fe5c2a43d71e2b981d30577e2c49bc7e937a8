@@ -1,0 +1,41 @@
+
+@
+java:S5786E"Remove this 'public' modifier.(íñëúÿÿÿÿ8ïÍ‚ÈÏ1
+@
+java:S5786M"Remove this 'public' modifier.(ÔÉÈ¦ùÿÿÿÿ8ïÍ‚ÈÏ1
+@
+java:S5786e"Remove this 'public' modifier.(ü¬‹Éøÿÿÿÿ8ïÍ‚ÈÏ1
+;
+java:S5786v"Remove this 'public' modifier.(Û‹æä8ïÍ‚ÈÏ1
+A
+java:S5786‹"Remove this 'public' modifier.(³ÁËûÿÿÿÿ8ïÍ‚ÈÏ1
+;
+java:S5786§"Remove this 'public' modifier.(üÔªO8ïÍ‚ÈÏ1
+A
+java:S5786¶"Remove this 'public' modifier.(ûÂ¦¸şÿÿÿÿ8ïÍ‚ÈÏ1
+A
+java:S5786ä"Remove this 'public' modifier.(ëâÍ¬ÿÿÿÿÿ8ïÍ‚ÈÏ1
+A
+java:S5786ú"Remove this 'public' modifier.(âÉ¯øÿÿÿÿ8ïÍ‚ÈÏ1
+A
+java:S5786Ø"Remove this 'public' modifier.(‚¿ÚŒûÿÿÿÿ8ïÍ‚ÈÏ1
+;
+java:S5786ö"Remove this 'public' modifier.(‡Û8ïÍ‚ÈÏ1
+Œ
+java:S5783¹"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ê³òËÏ1
+Œ
+java:S5783Ç"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ë³òËÏ1
+Œ
+java:S5783Õ"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ë³òËÏ1
+Œ
+java:S5783ç"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ì³òËÏ1
+s
+java:S5961ú"PRefactor this method to reduce the number of assertions from 31 to less than 25.(âÉ¯øÿÿÿÿ8óÍ‚ÈÏ1
+Œ
+java:S5783Û"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ğ³òËÏ1
+Œ
+java:S5783è"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ğ³òËÏ1
+Œ
+java:S5783ø"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ñ³òËÏ1
+‰
+java:S5778ø"fRefactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.(¡»¢üùÿÿÿÿ8ôÍ‚ÈÏ1

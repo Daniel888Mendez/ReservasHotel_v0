@@ -1,0 +1,48 @@
+
+h
+java:S1192·"JDefine a constant instead of duplicating this literal "626626626" 3 times.(»Ñ°Í8ÆùÀÕÖ1
+j
+java:S1192·"LDefine a constant instead of duplicating this literal "l@gmail.com" 3 times.(»Ñ°Í8ÆùÀÕÖ1
+J
+java:S5411-"(Use a primitive boolean expression here.(Ø”ıÿÿÿÿ8ÇùÀÕÖ1
+D
+java:S54110"(Use a primitive boolean expression here.(éÜ¦8ÇùÀÕÖ1
+J
+java:S5411F"(Use a primitive boolean expression here.(èÎÆÕüÿÿÿÿ8ÇùÀÕÖ1
+c
+java:S1126@"AReplace this if-then-else statement by a single return statement.(¡£¦Óùÿÿÿÿ8€úÀÕÖ1
+c
+java:S1126F"AReplace this if-then-else statement by a single return statement.(èÎÆÕüÿÿÿÿ8€úÀÕÖ1
+I
+java:S1125F"'Remove the unnecessary boolean literal.(èÎÆÕüÿÿÿÿ8€úÀÕÖ1
+D
+java:S1168"&Return an empty array instead of null.(ÎÍëÍ8‚úÀÕÖ1
+£
+java:S1130†"„Remove the declaration of thrown exception 'javax.naming.OperationNotSupportedException', as it cannot be thrown from method's body.(‡Øë×8‚úÀÕÖ1
+D
+java:S1168š"&Return an empty array instead of null.(ÎÍëÍ8ƒúÀÕÖ1
+D
+java:S1168±"&Return an empty array instead of null.(ÎÍëÍ8„úÀÕÖ1
+Z
+java:S1854·"<Remove this useless assignment to local variable "huesped1".(»Ñ°Í8„úÀÕÖ1
+Z
+java:S1854¸"<Remove this useless assignment to local variable "huesped2".(İÕ¢¯8„úÀÕÖ1
+b
+java:S1854½"?Remove this useless assignment to local variable "habitacion3".(ú©œ‰øÿÿÿÿ8„úÀÕÖ1
+]
+java:S1854¿"?Remove this useless assignment to local variable "habitacion5".(Œñ¼–8„úÀÕÖ1
+]
+java:S1854À"?Remove this useless assignment to local variable "habitacion6".(•‘èï8„úÀÕÖ1
+K
+java:S1481·"-Remove this unused "huesped1" local variable.(»Ñ°Í8„úÀÕÖ1
+K
+java:S1481¸"-Remove this unused "huesped2" local variable.(İÕ¢¯8…úÀÕÖ1
+S
+java:S1481½"0Remove this unused "habitacion3" local variable.(ú©œ‰øÿÿÿÿ8…úÀÕÖ1
+N
+java:S1481¿"0Remove this unused "habitacion5" local variable.(Œñ¼–8…úÀÕÖ1
+N
+java:S1481À"0Remove this unused "habitacion6" local variable.(•‘èï8…úÀÕÖ1
+M	java:S106Ê"+Replace this use of System.out by a logger.(ÃŒ¥Âúÿÿÿÿ8…úÀÕÖ1
+H	java:S106Ì"+Replace this use of System.out by a logger.(Ñöó8†úÀÕÖ1
+H	java:S106Ù"+Replace this use of System.out by a logger.(Ç“¼Ä8†úÀÕÖ1

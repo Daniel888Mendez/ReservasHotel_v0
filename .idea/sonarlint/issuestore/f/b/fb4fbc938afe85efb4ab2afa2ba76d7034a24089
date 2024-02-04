@@ -1,0 +1,58 @@
+
+‡
+java:S1488t"eImmediately return this expression instead of assigning it to the temporary variable "fecNacimiento".(÷Ì›Êşÿÿÿÿ8È¡Ã¢×1
+G	java:S106"+Replace this use of System.out by a logger.(›§÷¥8ú¡Ã¢×1
+G	java:S106"+Replace this use of System.out by a logger.(æÈ÷Ó8ú¡Ã¢×1
+G	java:S106$"+Replace this use of System.out by a logger.(´¿•8û¡Ã¢×1
+G	java:S106'"+Replace this use of System.out by a logger.(­­¦í8û¡Ã¢×1
+G	java:S106."+Replace this use of System.out by a logger.(‡ß¾8û¡Ã¢×1
+G	java:S106;"+Replace this use of System.out by a logger.(õÖÅÔ8û¡Ã¢×1
+L	java:S106="+Replace this use of System.out by a logger.(¿Õôşÿÿÿÿ8ü¡Ã¢×1
+G	java:S106@"+Replace this use of System.out by a logger.(›“û¥8ü¡Ã¢×1
+L	java:S106C"+Replace this use of System.out by a logger.(ò‹¤ıÿÿÿÿ8ü¡Ã¢×1
+G	java:S106F"+Replace this use of System.out by a logger.(¿÷Îæ8ü¡Ã¢×1
+L	java:S106I"+Replace this use of System.out by a logger.(ÌÂúõøÿÿÿÿ8ü¡Ã¢×1
+G	java:S106Q"+Replace this use of System.out by a logger.(ÄÅğ¤8ü¡Ã¢×1
+L	java:S106`"+Replace this use of System.out by a logger.(­òÚòøÿÿÿÿ8ı¡Ã¢×1
+L	java:S106i"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ı¡Ã¢×1
+L	java:S106j"+Replace this use of System.out by a logger.(›É¡³ùÿÿÿÿ8ı¡Ã¢×1
+L	java:S106m"+Replace this use of System.out by a logger.(­ñüòûÿÿÿÿ8ı¡Ã¢×1
+L	java:S106p"+Replace this use of System.out by a logger.(ì½Ãûÿÿÿÿ8ş¡Ã¢×1
+]	java:S125x"<This block of commented-out lines of code should be removed.(’º®Ôüÿÿÿÿ8ş¡Ã¢×1
+M	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ş¡Ã¢×1
+H	java:S106‚"+Replace this use of System.out by a logger.(Êè²º8ÿ¡Ã¢×1
+H	java:S106„"+Replace this use of System.out by a logger.(óÅ¡8ÿ¡Ã¢×1
+H	java:S106‡"+Replace this use of System.out by a logger.(›Ùû®8ÿ¡Ã¢×1
+M	java:S106‰"+Replace this use of System.out by a logger.(­ú®©şÿÿÿÿ8ÿ¡Ã¢×1
+H	java:S106”"+Replace this use of System.out by a logger.(óÅ¡8ÿ¡Ã¢×1
+H	java:S106–"+Replace this use of System.out by a logger.(›Ùû®8ÿ¡Ã¢×1
+M	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8€¢Ã¢×1
+H	java:S106"+Replace this use of System.out by a logger.(Ì¥é8€¢Ã¢×1
+G	java:S106 "+Replace this use of System.out by a logger.(çºÓ%8€¢Ã¢×1
+H	java:S106¤"+Replace this use of System.out by a logger.(ŒÌâå8€¢Ã¢×1
+M	java:S106­"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¢Ã¢×1
+M	java:S106®"+Replace this use of System.out by a logger.(éÁÙ¶úÿÿÿÿ8¢Ã¢×1
+G	java:S106°"+Replace this use of System.out by a logger.(çºÓ%8¢Ã¢×1
+H	java:S106´"+Replace this use of System.out by a logger.(®€€8¢Ã¢×1
+M	java:S106¾"+Replace this use of System.out by a logger.(Ë¹ºªøÿÿÿÿ8¢Ã¢×1
+H	java:S106¿"+Replace this use of System.out by a logger.(›Äñ8¢Ã¢×1
+M	java:S106À"+Replace this use of System.out by a logger.(Ë¹ºªøÿÿÿÿ8¢Ã¢×1
+M	java:S106Á"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‚¢Ã¢×1
+M	java:S106Ä"+Replace this use of System.out by a logger.(¤ï±üûÿÿÿÿ8‚¢Ã¢×1
+r
+java:S1128"PRemove this unused import 'org.iesalandalus.programacion.reservashotel.MainApp'.(›âÀèüÿÿÿÿ8„ˆÉ¢×1
+
+java:S1128"]Remove this unused import 'org.iesalandalus.programacion.reservashotel.negocio.Habitaciones'.(æİ¹¡üÿÿÿÿ8„ˆÉ¢×1
+|
+java:S1128"ZRemove this unused import 'org.iesalandalus.programacion.reservashotel.negocio.Huespedes'.(ç¥©øşÿÿÿÿ8„ˆÉ¢×1
+{
+java:S1128"YRemove this unused import 'org.iesalandalus.programacion.reservashotel.negocio.Reservas'.(ÒÇ±İúÿÿÿÿ8…ˆÉ¢×1
+j
+java:S1128
+"HRemove this unused import 'javax.naming.OperationNotSupportedException'.(Œõûÿÿÿÿÿ8…ˆÉ¢×1
+a
+java:S1128"?Remove this unused import 'javax.swing.text.html.HTMLDocument'.(„˜Òùÿÿÿÿ8…ˆÉ¢×1
+U
+java:S1128"8Remove this unused import 'java.time.DateTimeException'.(úÛ”™8…ˆÉ¢×1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8…ˆÉ¢×1

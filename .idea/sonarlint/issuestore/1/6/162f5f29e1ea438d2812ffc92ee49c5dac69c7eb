@@ -1,0 +1,46 @@
+
+ƒ
+java:S1104"aMake MIN_PRECIO_HABITACION a static final constant or non-public and provide accessors if needed.(”Î ›øÿÿÿÿ8âÙ‰ÕÖ1
+}
+java:S1104"aMake MAX_PRECIO_HABITACION a static final constant or non-public and provide accessors if needed.(¢¹¾8âÙ‰ÕÖ1
+
+java:S1104	"]Make MIN_NUMERO_PUERTA a static final constant or non-public and provide accessors if needed.(‚ŞŠûÿÿÿÿ8âÙ‰ÕÖ1
+z
+java:S1104
+"]Make MAX_NUMERO_PUERTA a static final constant or non-public and provide accessors if needed.(Êğ‡¶8âÙ‰ÕÖ1
+
+java:S1104"]Make MIN_NUMERO_PLANTA a static final constant or non-public and provide accessors if needed.(Ê¢ìæıÿÿÿÿ8âÙ‰ÕÖ1
+
+java:S1104"]Make MAX_NUMERO_PLANTA a static final constant or non-public and provide accessors if needed.(‹ÉÏØÿÿÿÿÿ8âÙ‰ÕÖ1
+]
+java:S1444";Make this "public static MIN_PRECIO_HABITACION" field final(”Î ›øÿÿÿÿ8âÙ‰ÕÖ1
+W
+java:S1444";Make this "public static MAX_PRECIO_HABITACION" field final(¢¹¾8âÙ‰ÕÖ1
+Y
+java:S1444	"7Make this "public static MIN_NUMERO_PUERTA" field final(‚ŞŠûÿÿÿÿ8âÙ‰ÕÖ1
+T
+java:S1444
+"7Make this "public static MAX_NUMERO_PUERTA" field final(Êğ‡¶8âÙ‰ÕÖ1
+Y
+java:S1444"7Make this "public static MIN_NUMERO_PLANTA" field final(Ê¢ìæıÿÿÿÿ8âÙ‰ÕÖ1
+Y
+java:S1444"7Make this "public static MAX_NUMERO_PLANTA" field final(‹ÉÏØÿÿÿÿÿ8âÙ‰ÕÖ1
+‚
+java:S3008"`Rename this field "MIN_PRECIO_HABITACION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Î ›øÿÿÿÿ8èÙ‰ÕÖ1
+|
+java:S3008"`Rename this field "MAX_PRECIO_HABITACION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¹¾8èÙ‰ÕÖ1
+~
+java:S3008	"\Rename this field "MIN_NUMERO_PUERTA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ŞŠûÿÿÿÿ8èÙ‰ÕÖ1
+y
+java:S3008
+"\Rename this field "MAX_NUMERO_PUERTA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êğ‡¶8èÙ‰ÕÖ1
+~
+java:S3008"\Rename this field "MIN_NUMERO_PLANTA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¢ìæıÿÿÿÿ8èÙ‰ÕÖ1
+~
+java:S3008"\Rename this field "MAX_NUMERO_PLANTA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÉÏØÿÿÿÿÿ8èÙ‰ÕÖ1
+P
+java:S1172†"2Remove this unused method parameter "descripcion".(¥¹Óî8îÙ‰ÕÖ1
+H	java:S106 "+Replace this use of System.out by a logger.(¼¶ÎÑ8ïÙ‰ÕÖ1
+H	java:S106£"+Replace this use of System.out by a logger.(Ç“¼Ä8ïÙ‰ÕÖ1
+R
+java:S1144I"5Remove this unused private "setIdentificador" method.(˜êâÕ8ïÙ‰ÕÖ1

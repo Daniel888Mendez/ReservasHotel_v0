@@ -1,0 +1,21 @@
+
+J
+java:S5411s"(Use a primitive boolean expression here.(ÍïÎåùÿÿÿÿ8Ş’¼ŞÓ1
+G
+java:S11975"*Move the array designators [] to the type.(ÄÖ‘¼8ó’¼ŞÓ1
+^
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(Æ­‡òıÿÿÿÿ8÷’¼ŞÓ1
+n
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(ÜÖéêúÿÿÿÿ8ù’¼ŞÓ1
+G
+java:S5869"*Remove duplicates in this character class.(¡Ÿ‰¬8ú’¼ŞÓ1
+Y
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¡Ÿ‰¬8û’¼ŞÓ1
+j
+java:S1128"HRemove this unused import 'javax.naming.OperationNotSupportedException'.(Œõûÿÿÿÿÿ8ÿ’¼ŞÓ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÿ’¼ŞÓ1
+X
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8ÿ’¼ŞÓ1
+[
+java:S1128">Remove this unused import 'java.util.zip.DataFormatException'.(öÄë½8ÿ’¼ŞÓ1

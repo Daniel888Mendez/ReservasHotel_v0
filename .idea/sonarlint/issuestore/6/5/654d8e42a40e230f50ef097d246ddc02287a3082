@@ -1,0 +1,30 @@
+
+h
+java:S1192„"JDefine a constant instead of duplicating this literal "626626626" 3 times.(ü½¯é8†‰Ó†Ô1
+j
+java:S1192„"LDefine a constant instead of duplicating this literal "l@gmail.com" 3 times.(ü½¯é8‡‰Ó†Ô1
+J
+java:S5411;"(Use a primitive boolean expression here.(Ø”ıÿÿÿÿ8‡‰Ó†Ô1
+J
+java:S5411>"(Use a primitive boolean expression here.(ÜÏ¶Ãÿÿÿÿÿ8‡‰Ó†Ô1
+E
+java:S5411Z"(Use a primitive boolean expression here.(ò©õ8‡‰Ó†Ô1
+v
+java:S3012$"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ÿúú–8Ÿ‰Ó†Ô1
+c
+java:S1126S"AReplace this if-then-else statement by a single return statement.(¡£¦Óùÿÿÿÿ8¢‰Ó†Ô1
+^
+java:S1126Z"AReplace this if-then-else statement by a single return statement.(ò©õ8¢‰Ó†Ô1
+H	java:S106"+Replace this use of System.out by a logger.(ÖŞ ä8¤‰Ó†Ô1
+H	java:S106"+Replace this use of System.out by a logger.(ÖŞ ä8¤‰Ó†Ô1
+H	java:S106‘"+Replace this use of System.out by a logger.(ÖŞ ä8¤‰Ó†Ô1
+H	java:S106—"+Replace this use of System.out by a logger.(Ç“¼Ä8¥‰Ó†Ô1
+Z
+java:S1128"=Remove this unused import 'javax.swing.table.TableRowSorter'.(ôäö8ÈÓÑÖ1
+S
+java:S1128	"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ÈÓÑÖ1
+T
+java:S1128
+"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ÈÓÑÖ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ÈÓÑÖ1
